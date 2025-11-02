@@ -32,8 +32,13 @@ Zach argues this in his essay "[Lessons for Students](https://zachlieberman.medi
 
 See Zach's [portfolio here](http://zach.li/).
 
-## Giving language to artistic research
-There is not one set way to talk about art as research but let's take a look at a few approaches. Note that these are exclusive categories and many works operate as research in multiple ways.
+## Giving language to artistic research 
+
+![](images/hendren.png)
+
+A slide from Sarah Hendren's must-watch Eyeo talk, ["Know-Nothings, Dilettantes, and Melancholy Interlopers"](https://vimeo.com/179040817?fl=pl&fe=vl) where she calls for new language that legitimizes different pathways into meaningful creative practice. 
+
+As you might infer, there isn't one set way to talk about art as research, but let's take a look at a few approaches. Note that these terms do not describe exclusive categories and many works operate as research in multiple ways.
 
 ### Practice Led vs Practice Based
 
@@ -148,9 +153,11 @@ Alexandra Daisy Ginsberg, [Pollinator Pathway](https://www.daisyginsberg.com/wor
 ![](images/pp.jpg)
 ![](images/daisy.jpg)
 
+Heather Dewey Hagborg, [Stranger Visions ](https://deweyhagborg.com/projects/stranger-visions)
+
 Thomas Saranceno, [Hybrid Webs](https://studiotomassaraceno.org/hybrid-webs/)
 
-Heather Dewey Hagborg, [Stranger Visions ](https://deweyhagborg.com/projects/stranger-visions)
+![](images/sarenceno.jpg)
 
 *But all these works also straddle the previous category too... and as Alexandra Daisy Ginsberg writes.. that's ok, many works sit under more than one header. In other words...*
 
