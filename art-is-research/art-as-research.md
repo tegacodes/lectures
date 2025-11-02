@@ -259,7 +259,7 @@ Mimi Onouha's [Library of Missing Datasets](https://mimionuoha.com/the-library-o
 
 What strategies are at play in Levin, McDonald, Onouha's work?
 
-## Research framings in Art and Tech 
+## Approaches/research framings in Art and Tech 
 
 Framing for different approachs to art research:
 
