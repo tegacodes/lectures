@@ -210,7 +210,6 @@ Lets think about the strategies in [Lauren](https://get-lauren.net/SOMEONE) by L
 ![](images/lauren.jpg)
 
 What strategies are at play in this work? 
-What about in Levin, McDonald, Onouha's work?
 
 ## Research Methods Used by Artists
 
@@ -258,8 +257,7 @@ Mimi Onouha's [Library of Missing Datasets](https://mimionuoha.com/the-library-o
 
 [![](images/missing.png) ](https://github.com/MimiOnuoha/missing-datasets)
 
-
-
+What strategies are at play in Levin, McDonald, Onouha's work?
 
 ## Research framings in Art and Tech 
 
