@@ -32,7 +32,7 @@ Zach argues this in his essay "[Lessons for Students](https://zachlieberman.medi
 
 See Zach's [portfolio here](http://zach.li/).
 
-## Giving a language to artistic research
+## Giving language to artistic research
 There is not one set way to talk about art as research but let's take a look at a few approaches. Note that these are exclusive categories and many works operate as research in multiple ways.
 
 ### Practice Led vs Practice Based
@@ -109,7 +109,7 @@ Gabriella Hirst's work [Darling Darling.
 
 ![](images/darling.jpg)
 
-### Research ***through*** art 
+#### Research ***through*** art 
 
 - materials research
 - development research (new software or tools)
@@ -139,7 +139,7 @@ Kate Crawford + Trevor Paglan's [ImageNet Roulette](https://paglen.studio/2020/0
 ![](images/roulette.jpeg)
 
 
-### Research ***for*** art 
+#### Research ***for*** art 
 
 Research for art is research where the end product is an artefact - where the thinking is embodied in the artefact, where the goal is not primarily communicable knowledge in the sense of verbal communication, but in the sense of visual or iconic or imagistic communication.
 
@@ -152,12 +152,13 @@ Thomas Saranceno, [Hybrid Webs](https://studiotomassaraceno.org/hybrid-webs/)
 
 Heather Dewey Hagborg, [Stranger Visions ](https://deweyhagborg.com/projects/stranger-visions)
 
-*But all these works also straddle the previous category too... and as Alexandra Daisy Ginsberg writes.. that's ok, many works sit in more than one of categories. In other words...*
+*But all these works also straddle the previous category too... and as Alexandra Daisy Ginsberg writes.. that's ok, many works sit under more than one header. In other words...*
+
 ![](images/blurry.png)
 
 Alexandra Daisy Ginsberg observes this in her 2018 Phd thesis on biodesign:
 
->My work encompasses all three, as research and practice merge: my critical design practice informs the thesis and vice versa. My interventions in synthetic biology and its politics—reflecting the subject’s live nature—developed my thinking and practice, and helped me to identify synthetic biology’s proliferating meanings of better.
+>My work encompasses all three *(approaches)*, as research and practice merge: my critical design practice informs the thesis and vice versa. My interventions in synthetic biology and its politics—reflecting the subject’s live nature—developed my thinking and practice, and helped me to identify synthetic biology’s proliferating meanings of better.
 
 > Leading with practice allowed me to reflect on it afterwards, but design and theory are not separate: writing is practice too. My design projects demanded literature reviews of their own; their public exhibition, dissemination, and discussion informed my analysis and directed further reading across diﬀerent disciplines, which instigated new action. Further research led me to classify the dream of better as a sociotechnical imaginary, to use its framework to structure my research into examining better, and to review critical design and biodesign in this context.This process deepened my understanding of each project, of critical design and, ultimately, of better.”
 	
@@ -165,6 +166,44 @@ Alexandra Daisy Ginsberg observes this in her 2018 Phd thesis on biodesign:
 ![](images/cycles.png)
 
 Ginsberg talks about cycles in her research between practice and reflection, or making and thinking which is articulated in a lot of thinking on art methods. An artist moves from one project, to a period of reflection and writing, and then that thinking goes into the next work. This is a methodolgical approach called "reflection-in-action" and was described by Donald Schon in his 1986 book called[ *The Reflective Practicioner*](https://www.tandfonline.com/doi/abs/10.1080/07377366.1986.10401080) (p. 130). It refers to a system structured by cycles of practice and reflection, where both the successes and problems encountered through each artwork have been reflected upon, placed into dialogue with relevant theory and then fed into the direction of the apposite project. Schon (1986) describes this as spiralling through “stages of appreciation, action and reappreciation” (p. 131). 
+
+
+### Artistic Strategies: Giving language to what the work is doing...
+
+When you are looking at the work of artists and designers, think about the strategies they are using in their work. What is the work/artist doing? Making something strange, juxtaposing, speculating? 
+
+Giving language to practice and to the strategies you use is crucial in art research. 
+
+Here is an incomplete and non-exhaustive list of artistic strategies:
+
+- Visualizing, making visible (data, process, supply chains, [Anatomy of AI](https://anatomyof.ai/)) 
+- Interactivity
+- Storytelling / speculative fiction
+- Intervention
+- Performance (durational, lecture, etc)
+- Embodiment
+- Participation
+- Re-enactment
+- Humor
+- Toolmaking, eg. software, browser entensions, kits
+- Experimental publishing/cataloguing eg. “[The field guide](https://placesjournal.org/article/cloud-and-field/)”
+- Workshops
+- Curating
+- Reverse engineering
+- Re-engineering 
+- Attending to histories of tech, materials, art as practice
+- Site specificity
+- Data collection
+- Web scraping
+- Inversion (the gaze, surveillance etc)
+- De-automation
+
+Lets think about the strategies in [Lauren](https://get-lauren.net/SOMEONE) by Lauren Lee Mccarthy. A series of work where the audience becomes a human Alexa. Custom smart devices — cameras, mics, locks, faucets, appliancesinstalled are installed into the homes of volunteers and controlled by actual people rather than data-driven systems. 
+
+![](images/lauren.jpg)
+
+What strategies are at play in this work? 
+What about in Levin, McDonald, Onouha's work?
 
 ## Research Methods Used by Artists
 
@@ -214,42 +253,6 @@ Mimi Onouha's [Library of Missing Datasets](https://mimionuoha.com/the-library-o
 
 
 
-## Artistic Strategies
-
-When you are looking at the work of artists and designers, think about the strategies they are using in their work. What is the work/artist doing? Making something strange, juxtaposing, speculating? 
-
-Giving language to practice and to the strategies you use is crucial in art research. 
-
-Here is an incomplete and non-exhaustive list of artistic strategies:
-
-- Visualizing, making visible (data, process, supply chains, [Anatomy of AI](https://anatomyof.ai/)) 
-- Interactivity
-- Storytelling / speculative fiction
-- Intervention
-- Performance (durational, lecture, etc)
-- Embodiment
-- Participation
-- Re-enactment
-- Humor
-- Toolmaking, eg. software, browser entensions, kits
-- Experimental publishing/cataloguing eg. “[The field guide](https://placesjournal.org/article/cloud-and-field/)”
-- Workshops
-- Curating
-- Reverse engineering
-- Re-engineering 
-- Attending to histories of tech, materials, art as practice
-- Site specificity
-- Data collection
-- Web scraping
-- Inversion (the gaze, surveillance etc)
-- De-automation
-
-Lets think about the strategies in [Lauren](https://get-lauren.net/SOMEONE) by Lauren Lee Mccarthy. A series of work where the audience becomes a human Alexa. Custom smart devices — cameras, mics, locks, faucets, appliancesinstalled are installed into the homes of volunteers and controlled by actual people rather than data-driven systems. 
-
-![](images/lauren.jpg)
-
-What strategies are at play in this work? 
-What about in Levin, McDonald, Onouha's work?
 
 ## Research framings in Art and Tech 
 
