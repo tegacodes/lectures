@@ -76,9 +76,9 @@ My work like [Being Radiotropic](https://tegabrain.com/Being-Radiotropic),and [ 
 
 Practice that adopts existing ways of working to produce new outcomes – “If the creative artifact is the basis of the contribution to knowledge, the research is practice-based”. These works tend to use existing methods to produce new original works of designs, music, digital media, performances and exhibitions. The work itself constitutes the research into what's possible—without necessarily producing separate theoretical papers about the findings.
 
-Zach Lieberman - [Daily Sketches](https://www.instagram.com/zach.lieberman/?hl=en). 
+Saskia Freeke. [Daily generative art.](https://www.instagram.com/sasj_nl) 2010–2020. Generative image series. 
 
-![](images/zach2.png) 
+![](images/saska_freeke_2.png) 
 
 American Artist, [Black Gooey Universe.
 ](https://americanartist.us/works/black-gooey-universe)
