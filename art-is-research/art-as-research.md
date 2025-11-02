@@ -40,6 +40,7 @@ There is not one set way to talk about art as research but let's take a look at 
 My definitions below are taken from Dr Linda Candy and Ernest Edmonds from UTS in Sydney who have [written extensively on different practice research methods.](https://www.creativityandcognition.com/practice-based-research/)
 
 ####Practice-Led 
+
 Research is practice-led if it “leads primarily to new understandings about the nature of practice”. 
 Practice-led work innovates new methods, for example, it might combine approaches from different disciplines. It produces new approaches on what art making is and what it looks like and the insights are typically articulated through both the artwork AND reflective/theoretical outputs (papers, talks, documentation). Consider:
 
@@ -67,6 +68,7 @@ My work like [Being Radiotropic](https://tegabrain.com/Being-Radiotropic),and [ 
 
 
 ####Practice Based
+
 Practice that adopts existing ways of working to produce new outcomes – “If the creative artifact is the basis of the contribution to knowledge, the research is practice-based”. These works tend to use existing methods to produce new original works of designs, music, digital media, performances and exhibitions. The work itself constitutes the research into what's possible—without necessarily producing separate theoretical papers about the findings.
 
 Zach Lieberman - [Daily Sketches](https://www.instagram.com/zach.lieberman/?hl=en). 
