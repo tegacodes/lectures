@@ -3,10 +3,9 @@ Fall, 2025
 
 ---
 
-This lecture is concerned with how research takes place in and through artistic practices. We will focus mostly on media art practices that site at that blurry intersection of art and design and technology. This is a two pronged endevour, I'm interested in how art pratices can be understood as research *and* where the research happens in art practice. 
+This lecture is concerned with art research methods, or how research takes place in and through artistic practices. We will focus mostly on media art practices that live at that blurry intersection of art, design and technology. This is a two pronged endevour, I'm interested in how art pratices can be understood as research *and* where the research happens in art practice. 
 
-We will look at: 
-
+We will look at:  
 - giving language to art as research
 - research methods used by artists
 - artistic strategies 
@@ -16,7 +15,7 @@ We will look at:
 
 Unlike science, there is no “one way” of doing art (or design). 
 
-But there are defined research methods that artists use in their process as well as an extenisive, albeit loose taxonomy of strategies artists deploy in their practices to produce new thinking and new knowledge (aka research). As we look at the examples in this lecture, ask yourself what research processes has the artist undertaken to produce the work, and what artistic strategies are being used (immersion, humor, estrangement, juxtaposition etc etc) to produce new thinking or experiences.
+But there are defined research methods that artists use in their process as well as an extenisive, albeit loose taxonomy of strategies artists deploy in their practices to produce new thinking and new knowledge lecture, ask yourself what research processes has the artist undertaken to produce the work, and what artistic strategies are being used (immersion, humor, estrangement, juxtaposition etc etc) to produce new thinking or experiences.
 
 We will also consider some of the scholarly literature and language around art as research.
 
