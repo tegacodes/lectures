@@ -7,8 +7,8 @@ This lecture is concerned with art research methods, or how research takes place
 
 We will look at:  
 - giving language to art as research
-- research methods used by artists
 - artistic strategies 
+- research methods used by artists
 - approaches in media arts and related practices
 
 ## Getting Orientated
@@ -176,11 +176,11 @@ Ginsberg talks about cycles in her research between practice and reflection, or 
 
 ### Artistic Strategies: Giving language to what the work is doing...
 
-When you are looking at the work of artists and designers, think about the strategies they are using in their work. What is the work/artist doing? Making something strange, juxtaposing, speculating? 
+When you are looking at the work of artists and designers, think about the strategies they are using in their work. What is the work/artist doing? Is the artist estranging, juxtaposing, speculating? 
 
-Giving language to practice and to the strategies you use is crucial in art research. 
+Giving language to practice and to the strategies being used is a crucial for art as researh. 
 
-Here is an incomplete and non-exhaustive list of artistic strategies:
+Here is an incomplete and non-exhaustive list of artistic strategies that we've seen used in the work we've looked at so far:
 
 - Visualizing, making visible (data, process, supply chains, [Anatomy of AI](https://anatomyof.ai/)) 
 - Interactivity
@@ -204,7 +204,7 @@ Here is an incomplete and non-exhaustive list of artistic strategies:
 - Inversion (the gaze, surveillance etc)
 - De-automation
 
-Lets think about the strategies in [Lauren](https://get-lauren.net/SOMEONE) by Lauren Lee Mccarthy. A series of work where the audience becomes a human Alexa. Custom smart devices — cameras, mics, locks, faucets, appliancesinstalled are installed into the homes of volunteers and controlled by actual people rather than data-driven systems. 
+To look at an example, let's consider the strategies in [Lauren](https://get-lauren.net/SOMEONE) by Lauren Lee Mccarthy. A series of work where the audience becomes a human Alexa. Custom smart devices — cameras, mics, locks, faucets, appliancesinstalled are installed into the homes of volunteers and controlled by actual people rather than data-driven systems. 
 
 ![](images/lauren.jpg)
 
