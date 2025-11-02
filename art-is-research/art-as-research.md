@@ -3,7 +3,7 @@ Fall, 2025
 
 ---
 
-This lecture is concerned with how research takes place in and through artistic practices. We will focus mostly on media art practices and those at the blurry intersection between art and design and technology. This is a two pronged endevour, I'm interested in where the research happens in art practice *and* how art pratices can be understood as research. 
+This lecture is concerned with how research takes place in and through artistic practices. We will focus mostly on media art practices that site at that blurry intersection of art and design and technology. This is a two pronged endevour, I'm interested in how art pratices can be understood as research *and* where the research happens in art practice. 
 
 We will look at: 
 
@@ -51,7 +51,7 @@ Emerges alongside her work on [*Additivism*](https://additivism.org/) which expl
 
 ![](images/ADDITIVISM_PROMO_BIG.gif)
 
-*Critical Engineering* [see the manifesto](https://criticalengineering.org/) is are tech based practices that use "the exploit" as a method, so publically identifying a risk, weakness, a contradiction, or way in which a technology exploits its user. CE then makes this public in some way (through a work, a performance, an experience.)
+*Critical Engineering* [(see the manifesto)](https://criticalengineering.org/) are tech based practices that use "the exploit" as a method, so publically identifying a risk, weakness, a contradiction, or way in which a technology exploits its user. CE then makes this public in some way (through a work, a performance, an experience.)
 
 Julian Oliver's [Glasshole](https://julianoliver.com/projects/glasshole/) clearly does this. 
 
@@ -88,9 +88,9 @@ Rafael Lorenzo-Hemmer, interactive works like [Pulse Room](https://www.lozano-he
 ![](images/pulse.jpg) 
 
 
-###Another way: Research *into*, *through* or *for* Art
+### Another way: Research *into*, *through* or *for* Art
 
-In his a well known article called ["Research in Art and Design"](https://antle.iat.sfu.ca/wp-content/uploads/2018/08/Frayling.pdf), cultural historian and educationalist Christopher Frayling (1993), diﬀerentiates between research into art, research through art and research for art.
+In his a well known article called ["Research in Art and Design"](https://antle.iat.sfu.ca/wp-content/uploads/2018/08/Frayling.pdf), cultural historian and educationalist Christopher Frayling (1993), diﬀerentiates between research *into* art, research *through* art and research *for* art.
 
 #### Research ***into*** art
 
