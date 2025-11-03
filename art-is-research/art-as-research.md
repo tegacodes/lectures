@@ -3,7 +3,7 @@ Fall, 2025
 
 ---
 
-This lecture is concerned with art research methods, or how research takes place through and in artistic practices. How can art pratices can be understood as research *and* where the research happens in art practice? We will focus mostly on media art practices that live at that blurry intersection of art, design and technology. 
+This lecture is concerned with art research methods, or how research takes place through and in artistic practices. How can art practices can be understood as research? Where does the research happen in art practice? We will focus mostly on media art practices that live at that blurry intersection of art, design and technology. 
 
 We will look at:  
 - giving language to art as research
@@ -222,7 +222,9 @@ What does an artist do to work out what to make? Or how do they figure out what 
 - Practice review
 - Interviews
 - Workshops
-- Experiments in practice (material testing, learning to make media with a new app or writing software or materials experimentation) 
+- Experiments in practice (material testing, learning to make media with a new app or writing software or materials experimentation).
+
+- For example, [Synthetic Messenger](https://tegabrain.com/Synthetic-Messenger)
 
 Undertaking these kinds of activities are crucial for you to create work that has traction, that contributes to a "grand conversation". 
 
