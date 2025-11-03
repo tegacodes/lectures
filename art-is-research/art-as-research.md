@@ -11,7 +11,7 @@ We will look at:
 - research methods used by artists
 - approaches in media arts and related practices
 
-## Getting Orientated
+## Poems not Demos
 
 Unlike science, there is no "one way" of doing art (or design). 
 
@@ -41,7 +41,7 @@ We will return to some of these ideas later, but what is key here is the emphasi
 
 This is a slide from Sarah Hendren's must-watch Eyeo talk, ["Know-Nothings, Dilettantes, and Melancholy Interlopers"](https://vimeo.com/179040817?fl=pl&fe=vl), where she calls for new language that legitimizes different pathways into meaningful creative practice. 
 
-As you might infer, there isn't one way to describe art as research. Let's examine a few approaches from the literature. Note that these terms do not describe exclusive categories and many works operate as research in multiple ways.
+As you might infer, there isn't one way to describe art as research. Let's examine a few terms from the literature. Note that these terms do not describe exclusive categories and many works operate as research in multiple ways.
 
 ### Practice Led vs Practice Based
 
@@ -193,23 +193,21 @@ Here is an incomplete and non-exhaustive list of artistic strategies we've seen 
 - Inversion (the gaze, surveillance, etc.)
 - De-automation
 
-For example, consider the strategies in [LAUREN](https://get-lauren.net/SOMEONE) by Lauren Lee McCarthy—a series where the audience becomes a human Alexa. Custom smart devices (cameras, mics, locks, faucets, appliances) are installed into volunteers' homes and controlled by actual people rather than data-driven systems. 
 
+Consider [Lauren by Lauren Lee McCarthy.](https://get-lauren.net/LAUREN)
 ![](images/lauren.jpg)
 
 What strategies are at play in this work? 
 
 ## Research Methods Used by Artists
 
-What does an artist do to work out what to make? Or how do they figure out what their project will be? Designer Sarah Hendren prompts students: "Who is in your personal canon?"
+What does an artist do to research and develop work?  
 
 - Literature review 
 - Practice review
 - Interviews
 - Workshops
 - Experiments in practice (material testing, learning to make media with a new app, writing software, materials experimentation)
-
-For example, [Synthetic Messenger](https://tegabrain.com/Synthetic-Messenger).
 
 Undertaking these kinds of activities is crucial for creating work that has traction, that contributes to a "grand conversation." 
 
