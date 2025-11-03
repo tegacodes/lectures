@@ -15,17 +15,17 @@ We will look at:
 
 Unlike science, there is no “one way” of doing art (or design). 
 
-But there are defined research methods that artists use in their process as well as an extenisive, albeit loose taxonomy of strategies artists deploy in their practices to provoke thinking, converation and new perpectives. As we look at work today, ask yourself what research processes has the artist undertaken to produce the work, and what artistic strategies are being used (immersion, humor, estrangement, juxtaposition etc etc) to produce the experience of the work.
+But there are defined research methods that artists use in their process as well as an extenisive, albeit loose taxonomy of strategies artists deploy in their practices to provoke thinking, converation and new perpectives. As we look at work today, ask yourself what research processes might the artist have undertaken to produce the work? And, what artistic strategies are at play in the final outcomes (immersion, humor, estrangement, juxtaposition etc etc)?
 
 We will also consider some of the scholarly literature and language around art as research.
 
-To start, consider how computer artist Zach Lieberman, one of the founders of the School for Poetic Computation, describes poetic computing:
+To start, consider how computer artist Zach Lieberman, one of the founders of the School for Poetic Computation, describes his practice of poetic computing:
 
 ![](images/poems-not-demos.jpg)
 
 So when we talk about art as research, I am not talking about quantitative work, or art making that has produced "solutions" to problems. I am not talking about art as being a demo of new technologies. Yes this is what research often looks like in science, engineering and often design, but in art, the process and work itself embodies the research. So the research is embedded or emerges through a story, a poem, an experience, an aesthetic, a suprising outcome, an enchanting or strange object or image etc. 
 
-At times, the outcome might be appear fairly minimal (a drawing or sculpture), but art is the outcome of an enormous backend that consists of an engagement with history and conversations happening in theory and the field of practice. It is also born of a rigorous relationship between practice and reflection. 
+At times, the outcome might be appear fairly minimal (a drawing or sculpture), but art is the result of an enormous backend that consists of an engagement with history, with conversations happening in theory and the field of practice you are working in. It is also born of a rigorous relationship between practice and reflection. 
 
 Zach argues this in his essay "[Lessons for Students](https://zachlieberman.medium.com/lessons-for-students-cf1acf200ee#.cee1uz3mx)". 
 
@@ -33,15 +33,15 @@ Zach argues this in his essay "[Lessons for Students](https://zachlieberman.medi
 
 See Zach's [portfolio here](http://zach.li/).
 
-We will return to some of these ideas again later, but what is key here is that Zach emphasizes art making as a form of study, as well as requiring a practice of publishing or dissemination. 
+We will return to some of these ideas again later, but what is key here is the emphasis on art making as a form of study, as well as requiring publishing or dissemination. 
 
 ## Giving language to artistic research 
 
 ![](images/hendren.png)
 
-This is a slide from Sarah Hendren's must-watch Eyeo talk, ["Know-Nothings, Dilettantes, and Melancholy Interlopers"](https://vimeo.com/179040817?fl=pl&fe=vl) where she calls for new language that legitimizes different pathways into meaningful creative practice. How might we describe the artist/designer?  
+This is a slide from Sarah Hendren's must-watch Eyeo talk, ["Know-Nothings, Dilettantes, and Melancholy Interlopers"](https://vimeo.com/179040817?fl=pl&fe=vl) where she calls for new language that legitimizes different pathways into meaningful creative practice. 
 
-As you might infer, there isn't one way to talk about art as research, but let's take a look at a few approaches. Note that these terms do not describe exclusive categories and many works operate as research in multiple ways.
+As you might infer from this beginning, there isn't one way to describe art as research, but let's take a look at a few approaches from the literature. Note that these terms do not describe exclusive categories and many works operate as research in multiple ways.
 
 ### Practice Led vs Practice Based
 
